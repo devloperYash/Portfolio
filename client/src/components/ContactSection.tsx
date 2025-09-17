@@ -45,11 +45,11 @@ export default function ContactSection() {
   };
 
   const handleLinkedInClick = () => {
-    window.open('https://linkedin.com/in/yash-lawankar', '_blank');
+    window.open('https://www.linkedin.com/in/yash-lawankar-17a752259/', '_blank');
   };
 
   const handleGitHubClick = () => {
-    window.open('https://github.com/yash-lawankar', '_blank');
+    window.open('https://github.com/devloperYash', '_blank');
   };
 
   return (

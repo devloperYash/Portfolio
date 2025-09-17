@@ -38,7 +38,7 @@ export default function ProjectsSection() {
       technologies: ["AI/ML", "LLM", "Web Development", "Image Processing"],
       image: floraVisionImage,
       liveUrl: "https://flora-vision-ai.demo",
-      githubUrl: "https://github.com/yash-lawankar/flora-vision-ai"
+      githubUrl: "https://github.com/devloperYash/flora-vision-ai"
     },
     {
       title: "Knowledge Representation & Insight Generation",
@@ -54,7 +54,7 @@ export default function ProjectsSection() {
       technologies: ["LLM", "Data Analysis", "Knowledge Graphs", "Visualization"],
       image: knowledgeGraphImage,
       liveUrl: "https://knowledge-insights.demo",
-      githubUrl: "https://github.com/yash-lawankar/knowledge-representation"
+      githubUrl: "https://github.com/devloperYash/knowledge-representation"
     }
   ];
 
